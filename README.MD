@@ -1,6 +1,7 @@
 ## Project background
 
-#### This project analyzes sales data from a fuel card agent to identify key patterns in client demographics, spending behavior, and revenue generation. The goal is to provide insights for optimizing sales strategies and improving client targeting.
+#### This project analyzes sales data from November 2024 to April 2025 for a fuel card agent, identifying key patterns in client demographics, spending behavior, and revenue generation. The goal is to provide insights for optimizing sales strategies and improving client targeting.
+
 
 ## Executive summary
 
