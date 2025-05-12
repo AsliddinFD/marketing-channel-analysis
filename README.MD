@@ -36,7 +36,7 @@
 ![Overall Customer Acquired](/status_by_region.png)
 ![Acquisition cost per channel](/client_status_by_state.png)
 ![Acquisition cost per channel](/revenue_by_nationality.png)
-![Acquisition cost per channel](/revenue_by_state.png.png)
+![Acquisition cost per channel](/revenue_by_state.png)
 
 
 
