@@ -6,19 +6,19 @@
 
 ### An analysis of the agent’s client portfolio reveals that the USA leads in client count, with the highest number of active, enrolled, and interested clients (29), followed by South America (7). The agent’s clients are primarily located in California and Texas, with 8 and 7 clients respectively. Despite the high client volume from the USA, Iranian clients generated the highest revenue ($78k), attributed to longer tenure with the company. The agent’s most successful lead source is CRM (37 clients), followed by Facebook (13). Notably, clients from web sourcing, though only one, have spent the most money ($78k), surpassing the $55k spent by CRM clients. A key finding is that clients only use the fuel card if they are approved for a credit line, with those rejected yet to use the card.
 
-## 'Company_name', 'The name of the client company purchasing the fuel card.'
-##  'Start_date', 'The date the client relationship with the agent began.'
-##  'Nationality', 'The country or region the client is from.'
-##  'Current_living_state', 'The state in which the client currently resides.'
-##  'Purchased_Gallon', 'The total number of gallons of fuel purchased by the client.'
-##  'Discounts', 'The amount of discount applied to the client’s fuel purchases.'
-##  'Revenue', 'The total revenue generated from the client’s fuel card purchases.'
-##  'Fleet_size', 'The number of vehicles in the client’s fleet.'
-##  'Lead_source', 'The channel or method through which the client was acquired.'
-##  'Current_status', 'The current engagement status of the client.'
-##  'Cards_used', 'The number of fuel cards actively used by the client.'
-##  'Cards_ordered', 'The total number of fuel cards ordered by the client.'
-##  'LOC_status', 'The credit line status of the client.'
+##### 'Company_name', 'The name of the client company purchasing the fuel card.'
+##### 'Start_date', 'The date the client relationship with the agent began.'
+#####  'Nationality', 'The country or region the client is from.'
+#####  'Current_living_state', 'The state in which the client currently resides.'
+#####  'Purchased_Gallon', 'The total number of gallons of fuel purchased by the client.'
+#####  'Discounts', 'The amount of discount applied to the client’s fuel purchases.'
+#####  'Revenue', 'The total revenue generated from the client’s fuel card purchases.'
+#####  'Fleet_size', 'The number of vehicles in the client’s fleet.'
+#####  'Lead_source', 'The channel or method through which the client was acquired.'
+#####  'Current_status', 'The current engagement status of the client.'
+#####  'Cards_used', 'The number of fuel cards actively used by the client.'
+#####  'Cards_ordered', 'The total number of fuel cards ordered by the client.'
+#####  'LOC_status', 'The credit line status of the client.'
 
 ## Insights Deep-Dive
 
