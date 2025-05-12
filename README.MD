@@ -61,14 +61,7 @@
 
 ## Recommendations
 
-## Double Down on U.S. Lead Generation:
 ### The agent consistently converts U.S. leads into interested clients. Continue feeding U.S.-based leads into his CRM pipeline to maintain volume.
-
-## Improve Conversion Support:
-Assign a senior sales agent to assist with closing deals, particularly for the high volume of U.S. leads that stall at the “interested” stage.
-
-## Leverage Referral Potential:
+### Assign a senior sales agent to assist with closing deals, particularly for the high volume of U.S. leads that stall at the “interested” stage.
 ### Provide targeted training to the agent on building a referral network using his current client base, aiming to generate warm leads at low acquisition cost.
-
-## Investigate Enrollment Drop-off:
 ### Assign senior agents to evaluate why enrolled clients are not activating their cards, and implement interventions to drive usage and revenue generation.
