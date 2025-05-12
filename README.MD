@@ -56,11 +56,11 @@
 	•	Only clients with LOC approved status have used the card.
 	•	All revenue ($134K) over the last 6 months came exclusively from LOC-approved clients actively using the card.
 
-![Overall Customer Acquired](/client_status_by_source.png.png)
+![Overall Customer Acquired](/client_status_by_source.png)
 
-![Overall Customer Acquired](/revenue_by_source.png.png)
+![Overall Customer Acquired](/revenue_by_source.png)
 
-![Overall Customer Acquired](/revenue_by_loc.png.png)
+![Overall Customer Acquired](/revenue_by_loc.png)
 
 
 ## Recommendations
