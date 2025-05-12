@@ -25,17 +25,12 @@
 ## Geographics and Revenue Trends
 
 ## Top Nationalities by Client Count:
-### The majority of clients are from the USA (29), followed by South America (7) and Uzbekistan (4).
-## Active Clients by Nationality:
-### Despite having the highest number of clients, the USA has only 2 active clients, equal to South America’s 2 active clients.
-## Interest and Engagement:
-### USA has 20 interested clients, South America has 3. This shows strong top-of-funnel traction but weak conversion for the USA.
-## Conversion by State:
-### California leads in client conversion count, with 6 clients (2 active), followed by Texas with 7 clients (5 enrolled, 2 interested) but no active clients.
-## Top Spending Nationalities:
-### Iran leads in total revenue with $78,000 spent, followed by the USA with $27,000 and South America with $18,000.
-## High-Spending Client Insight:
-### The Iranian client’s high spending is attributed to a longer relationship with the company, driving cumulative revenue higher over time.
+##### The majority of clients are from the USA (29), followed by South America (7) and Uzbekistan (4).
+##### Despite having the highest number of clients, the USA has only 2 active clients, equal to South America’s 2 active clients.
+##### USA has 20 interested clients, South America has 3. This shows strong top-of-funnel traction but weak conversion for the USA.
+##### California leads in client conversion count, with 6 clients (2 active), followed by Texas with 7 clients (5 enrolled, 2 interested) but no active clients.
+##### Iran leads in total revenue with $78,000 spent, followed by the USA with $27,000 and South America with $18,000.
+##### The Iranian client’s high spending is attributed to a longer relationship with the company, driving cumulative revenue higher over time.
 
 ![Overall Customer Acquired](/overall_clients.png)
 ![Overall Customer Acquired](/status_by_region.png)
